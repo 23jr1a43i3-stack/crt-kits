@@ -1,0 +1,13 @@
+cartoon=["Tom and jerry","Doremon","shinchan","chota bheem","motu pathlu",]
+print("Accessing list  using positive indexing:")
+print(cartoon[0])
+print(cartoon[1])
+print(cartoon[2])
+print(cartoon[3])
+print(cartoon[4])
+print("Accessing list  using negative indexing:")
+print(cartoon[-1])
+print(cartoon[-2])
+print(cartoon[-3])
+print(cartoon[-4])
+print(cartoon[-5])
