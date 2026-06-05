@@ -1,0 +1,7 @@
+lang=('Java','Python','C++','c','Sql')
+print(lang)
+lang.add('Ruby')
+print(lang)
+ui=('HTML','CSS','JS','Angular')
+lang.update(ui)
+print(lang)
